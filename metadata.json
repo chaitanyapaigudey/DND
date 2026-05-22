@@ -1,0 +1,6 @@
+{
+  "name": "ByPassDND",
+  "description": "Never miss critical emergencies. Allow priority contacts and repeated calls to bypass silent mode and DND with customizable schedules and visual alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
